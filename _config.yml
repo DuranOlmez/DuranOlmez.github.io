@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: Duran's homepage
-description: Bookmark this to keep an eye on my blogs!
+theme: jekyll-theme-cayman
+title: "Portfolio"
+description: Bookmark this to keep an eye on my projects and blogs!
+
+collections:
+  blogs:
+    output: true
